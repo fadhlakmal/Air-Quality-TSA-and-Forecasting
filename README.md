@@ -34,4 +34,4 @@ After a bit of testing, we found out that the model is having a hard time predic
 ![image](https://github.com/user-attachments/assets/8e784ae9-7cc8-4e37-ad99-c250f0554402)
 
 ## Acknowledgments
-Special thanks to my colleagues, [Keanu Fortuna Taufan](https://github.com/keanutaufan) and [Zelvan Abdi Wijaya](https://github.com/zelvann), and to our machine learning class lecturer, Dini Adni Navastara, S.Kom, M.Sc., and the teaching assistants for their support and guidance throughout this project.
+Special thanks to my colleagues, [Keanu Taufan](https://github.com/keanutaufan) and [Zelvan Wijaya](https://github.com/zelvann), and to our machine learning class lecturer, Dini Adni Navastara, and teaching assistants for their support and guidance throughout this project.
